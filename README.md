@@ -1,4 +1,4 @@
-# Projeto - Backend Zup
+# PROJETO - BACKEND ZUP
 
 Backend desenvolvido em Java 8 com os seguintes endpoints:
 ```
